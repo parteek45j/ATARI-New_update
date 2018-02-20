@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.icar.atari.HomeFragment">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp"
+        android:orientation="vertical">
+<android.support.v7.widget.CardView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="72dp"
+        android:orientation="horizontal">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/profilePhoto"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:src="@drawable/userpic"/>
+
+        <LinearLayout
+            android:layout_width="210dp"
+            android:layout_marginLeft="5dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/profieName"
+                android:layout_width="wrap_content"
+                android:textSize="15dp"
+                android:layout_height="wrap_content"
+                android:text="Parteek jain"
+                android:textColor="@color/colorPrimaryDark" />
+
+            <EditText
+                android:id="@+id/writeStatus"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:textSize="18dp"
+                android:textAlignment="viewStart"
+                android:hint="Whats on your mind?"
+                android:ems="20" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <ImageView
+                android:id="@+id/attach"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginBottom="10dp"
+                android:src="@drawable/addphoto"/>
+            <ImageView
+                android:id="@+id/send"
+                android:layout_marginBottom="10dp"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/ic_send_black_24dp" />
+            <ImageView
+                android:id="@+id/cancelImage"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/cancelimage" />
+        </LinearLayout>
+    </LinearLayout>
+</android.support.v7.widget.CardView>
+<LinearLayout
+    android:id="@+id/includeLayou"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginTop="10dp"
+    android:visibility="gone">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:id="@+id/textttt"
+        android:text="Your Status will Look like This After Post"
+        android:textSize="15dp"
+        android:layout_marginBottom="5dp"
+        android:textColor="@color/grey"/>
+    <include layout="@layout/post_items"
+        android:layout_gravity="center"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        />
+</LinearLayout>
+    </LinearLayout>
+</ScrollView>

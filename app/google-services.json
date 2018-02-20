@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "679197097717",
+    "firebase_url": "https://atari-master.firebaseio.com",
+    "project_id": "atari-master",
+    "storage_bucket": "atari-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679197097717:android:3618db676da292f0",
+        "android_client_info": {
+          "package_name": "com.icar.atari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679197097717-a1bdeedbfqb24q5ugef85cm23k329eeu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.icar.atari",
+            "certificate_hash": "1e8c4f30d3929a245dd28305e21b5c7ec025ae18"
+          }
+        },
+        {
+          "client_id": "679197097717-26c3nmj21l67o6ma6fphldnn3j8f5lu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDecKObujKArxBJun5cf7_S0sfXZOvAmZw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679197097717-26c3nmj21l67o6ma6fphldnn3j8f5lu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

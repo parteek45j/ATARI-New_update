@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="states_array">
+        <item>---Select State---</item>
+        <item>Himachal Pradesh</item>
+        <item>Jammu "&amp;" Kashmir</item>
+        <item>Punjab</item>
+        <item>Utrakhand</item>
+    </string-array>
+</resources>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="punjab_kvks_array">
+        <item>Amritsar</item>
+        <item>Bathinda</item>
+        <item>Faridkot</item>
+        <item>Fazilka</item>
+        <item>Ferozepur</item>
+        <item>Fatehgarh Sahib</item>
+        <item>Gurdaspur</item>
+        <item>Hoshiarpur</item>
+        <item>Jalandhar</item>
+        <item>Muktsar</item>
+        <item>Kapurthala</item>
+        <item>Ludhiana</item>
+        <item>Nawanshahr</item>
+        <item>Moga</item>
+        <item>Ropar</item>
+        <item>Patiala</item>
+        <item>Sangrur</item>
+        <item>Mansa</item>
+        <item>Barnala</item>
+        <item>Mohali</item>
+        <item>Tarn-Taran</item>
+        <item>Pathankot</item>
+    </string-array>
+
+
+    <string-array name="himachal_kvks_array">
+        <item>Chamba</item>
+        <item>Shimla</item>
+        <item>Kinnaur</item>
+        <item>Solan</item>
+        <item>Kangra</item>
+        <item>Hamirpur</item>
+        <item>Una</item>
+        <item>Sirmaur</item>
+        <item>Bilaspur</item>
+        <item>Kullu</item>
+        <item>Mandi</item>
+        <item>Lahual "&amp;" Spiti</item>
+    </string-array>
+
+
+    <string-array name="utrakhand_kvks_array">
+        <item>Champawat</item>
+        <item>Almora</item>
+        <item>Chamoli</item>
+        <item>Haridwar</item>
+        <item>Rudraprayag</item>
+        <item>Nainital</item>
+        <item>Pithouragarh</item>
+        <item>Dehradun</item>
+        <item>Kashipur (Udham Singh Nagar)</item>
+        <item>Tehri Garhwal</item>
+        <item>Pauri Garhwal</item>
+        <item>Uttarkashi</item>
+        <item>Bageshwar</item>
+    </string-array>
+
+
+    <string-array name="jk_kvks_array">
+        <item>Ganderbal</item>
+        <item>Srinagar</item>
+        <item>Kulgam</item>
+        <item>Baramulla</item>
+        <item>Kupwara</item>
+        <item>Leh</item>
+        <item>Pulwama</item>
+        <item>Kargil</item>
+        <item>Anantnag</item>
+        <item>Shopian</item>
+        <item>Budgam</item>
+        <item>Leh (Add.) Nyoma</item>
+        <item>Bandipora</item>
+        <item>Jammu</item>
+        <item>Doda</item>
+        <item>Poonch</item>
+        <item>Rajouri</item>
+        <item>Kathua</item>
+        <item>Reasi</item>
+        <item>Samba</item>
+    </string-array>
+    <string-array name="kvks_array">
+        <item>---Select KVK---</item>
+    </string-array>
+
+</resources>

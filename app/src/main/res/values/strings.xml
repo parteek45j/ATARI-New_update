@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ATARI</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="heading">AGRICULTURAL TECHNOLOGY APPLICATION RESEARCH INSTITUTE, ZONE-1:</string>
+    <string name="para1">"Agricultural Technology Application Research Institute (ATARI)" is a transformation of erstwhile Zonal Project Directorate, Zone-1. ATARI, Zone-1 was established by the ICAR, New Delhi at Ludhiana to monitor and review lab to land programme. Presently, this institute has been entrusted to actively engage in planning, monitoring, reviewing and evaluating the ICAR sponsored transfer of technology projects implemented through Krishi Vigyan Kendras (KVKs) located in Punjab, Uttarakhand, Himachal Pradesh and Jammu &amp; Kashmir. The mandate of the ATARI is:</string>
+    <string name="para2">1. Coordination and monitoring of technology application and Frontline Extension Education Programs</string>
+    <string name="para3">2. Strengthening Agricultural Extension Research and Knowledge Management</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

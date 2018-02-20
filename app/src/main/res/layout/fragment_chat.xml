@@ -1,0 +1,74 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+    tools:context="com.icar.atari.ChatFrag.ChatFragment">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="0dp"
+        android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginTop="55dp"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/hp2"
+            android:layout_width="0dp"
+            android:background="#90CAF9"
+            android:textStyle="italic"
+            android:layout_marginRight="-7dp"
+            android:layout_marginBottom="-5dp"
+            android:layout_height="match_parent"
+            android:text="Himachal Pradesh"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="-5dp"
+            android:background="#4DB6AC"
+            android:textStyle="italic"
+            android:id="@+id/jk2"
+            android:layout_weight="1"
+            android:text="Jammu &amp; Kashmir"
+            />
+    </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:orientation="horizontal"
+            android:layout_weight="1">
+            <Button
+                android:id="@+id/pb2"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginTop="-8dp"
+                android:background="#DCE775"
+                android:textStyle="italic"
+                android:layout_marginRight="-7dp"
+                android:text="Punjab"
+                android:layout_weight="1"
+                />
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:background="#FFB74D"
+                android:textStyle="italic"
+                android:id="@+id/uk2"
+                android:layout_marginTop="-8dp"
+                android:layout_weight="1"
+                android:text="Uttarakhand"
+                />
+
+
+
+        
+
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

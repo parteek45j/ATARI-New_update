@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="punjab_address">
+    <item> Majitha Rd, Nagkalan-Jahangir, Amritsar, 143601,tel:1234567890</item>
+    <item>Not Available</item>
+    <item>Baba Farid Nagar, Bazigar Basti, Faridkot, Punjab, 151203,tel:1234567890</item>
+    <item>Military Station, Fazilka Road, Abohar, Punjab, 152116,tel:1234567890</item>
+    <item>VPO : Malwa Qadim Ferozpur, 152001,tel:1234567890</item>
+    <item>Shamsher Nagar, Sirhind, 140406,tel:1234567890</item>
+    <item>Civil Lines, Gurdaspur, Punjab 143521,tel:1234567890</item>
+    <item>VPO Bahowal, Block Mahilpur, Tehsil Garhshankar (Hoshiarpur), 146105,tel:1234567890</item>
+    <item>Uppal Jagir, Noor Mahal, Distt. Jalandhar,tel:1234567890</item>
+    <item>Abohar-Malout Link Rd, Goniana, Punjab 152026,tel:1234567890</item>
+    <item>New Military Station, Kapurthala Cantt,, Kapurthala, Punjab 144602,tel:1234567890</item>
+    <item>Near Police Station, Ludhiana - Chandigarh Road, Samrala (District Ludhiana), 141114,tel:1234567890</item>
+    <item>VPO Langroya, Distt. S.B.S Nagar, 144516,tel:1234567890</item>
+    <item>Village Budh Singhwala, Charik Road, Moga-140001,tel:1234567890</item>
+    <item>BirlaFarm Road, Bari Haveli, Haveli Kalan, Rupnagar, Punjab 144001,tel:1234567890</item>
+    <item>Village. Rauni, Nabha Road, VPO Ranbirpura, Distt Patiala, 147001,tel:1234567890</item>
+    <item>Sangrur To Patran Road, Village Kheri, National Highway 71, Punjab 148001,tel:1234567890</item>
+    <item>Not Available</item>
+    <item>Village Handiaya, District- Barnala, Punajb 148107,tel:1234567890</item>
+    <item>Model Town, W.No-6, Street No-4, Kurali,District S.A.S. Nagar (Mohali), Punjab 140103,tel:1234567890</item>
+    <item>Village Booh, Post Office Harike Pattan, Tehsil Patti, District Tarn Taran (Punjab) 143412,tel:1234567890</item>
+    <item>Not Available</item>
+</string-array>
+    <string-array name="hp_address">
+        <item>Distt Chamba 176 314 (HP) INDIA,tel:1234567890</item>
+        <item>Rohru, District-Shimla, Himachal Pradesh, India,tel:1234567890</item>
+        <item>Kinnaur 172 107 (HP) India,tel:1234567890</item>
+        <item>Kandaghat, District - Solan, Himachal Pradesh, India,tel:1234567890</item>
+        <item>NIFT Rd, Talpura, Kangra, Himachal Pradesh 176001,tel:1234567890</item>
+        <item>Hamirpur at Bara, Distt. Hamirpur -177044, Himachal Pradesh,tel:1234567890</item>
+        <item>Rampur, Himachal Pradesh 174303,tel:1234567890</item>
+        <item>Ambala-Paonta Sahib-Dehradun Rd, Dhaula Kuan, Himachal Pradesh 173001,tel:1234567890</item>
+        <item>Sarkanda Farm, Bilaspur, Chhattisgarh 495001,tel:1234567890</item>
+        <item>NH21, Shiyaugi, Himachal Pradesh 175121,tel:1234567890</item>
+        <item>Purana Bazar-Bhojpur Rd, Purana Bazar, Sundernagar, Himachal Pradesh 175019,tel:1234567890</item>
+        <item>Tandi-Kishtwar Rd, Kukumseri, Himachal Pradesh 175142,tel:1234567890</item>
+    </string-array>
+
+    <string-array name="uk_address">
+
+        <item>Sui, P. O. - Galchora, Lohaghat, Distt.- Champawat-(Uttarakhand),tel:1234567890</item>
+        <item>Matela, Distt.- Almora,tel:1234567890</item>
+        <item>Gwaldam, District - Chamoli, Uttarakhand,tel:1234567890</item>
+        <item>Dhanauri, Distt.- Haridwar - (Uttarakhand),tel:1234567890</item>
+        <item>Jakhdhar Via Guptkashi, P.O. - Bansu, Distt.- Rudraprayag - (Uttarakhand),tel:1234567890</item>
+        <item>Jeolikote, Distt.- Nainital - (Uttarakhand),tel:1234567890</item>
+        <item>Gaina - Aincholi, Pithoragarh, Distt.- Pithoragarh (Uttarakhand),tel:1234567890</item>
+        <item>Dhakrani, Distt.- Dehradun</item>
+        <item>Bazpur Road, Kashipur, Distt.- Udham Singh Nagar - (Uttarakhand),tel:1234567890</item>
+        <item>Ranichauri - Tehri Garhwal, VCSG UUHF, Ranichauri, Distt.- Tehri Garhwal (Uttarakhand),tel:1234567890</item>
+        <item>VCSG Uttarakhand University of Horticulture &amp; Forestry, Bharsar, Distt.- Pauri Garhwal (Uttarakhand),tel:1234567890</item>
+        <item>ICAR-VPKAS, Chinyalisaur, Distt.- Uttarkashi - (Uttarakhand),tel:1234567890</item>
+        <item>ICAR - VPKAS, Sinduri-Baskhola(Kafligair), Distt.- Bageshwar - (Uttarakhand),tel:1234567890</item>
+
+
+    </string-array>
+    <string-array name="jk_address">
+        <item>Not Available</item>
+        <item>Narkura Campus, Srinagar, Jammu and Kashmir 190001,tel:1234567890</item>
+        <item>Not Available</item>
+        <item>Kunzer – 193404 (Tangmarg) Distt. Baramulla (J&amp;K),tel:1234567890</item>
+        <item>Not Available</item>
+        <item>P.O Box no. 146 Leh Ladakh, 194101,tel:1234567890</item>
+        <item>Malangpora, Pulwama, Jammu &amp; Kashmir, 192301,tel:1234567890</item>
+        <item>Not Available</item>
+        <item>Kreeri Anantnag Kashmir,tel:1234567890</item>
+        <item>Not Available</item>
+        <item>Not Available</item>
+        <item>Not Available</item>
+        <item>Bandipora, Kashmir,tel:1234567890</item>
+        <item>R.S.Pura, Jammu, Karan Bagh, Jammu and Kashmir 180010,tel:1234567890</item>
+        <item>DODA AT BHADERWAH, 182221,tel:1234567890</item>
+        <item>QAZI MORAH POONCH,tel:1234567890</item>
+        <item>Not Available</item>
+        <item>RAJHANI, KATHUA, 84101,tel:1234567890</item>
+        <item>Vill. Tanda, P/o Dera Baba Banda Bahadur,tel:1234567890</item>
+        <item>N/A</item>
+
+
+    </string-array>
+    
+</resources>
