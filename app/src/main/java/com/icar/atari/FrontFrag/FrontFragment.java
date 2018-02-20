@@ -35,7 +35,7 @@ public class FrontFragment extends Fragment {
     ViewPager viewPager;
     LinearLayout sliderDotspanel;
     private int dotscount;
-    private ImageView[] dots;
+    private ImageView[] dots=null;
 
     RequestQueue rq;
     List<SliderUtils> sliderImg;

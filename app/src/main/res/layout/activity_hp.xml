@@ -35,13 +35,12 @@
             android:imeActionLabel="Send"
             android:imeOptions="actionUnspecified"
             android:inputType="textCapSentences|textAutoCorrect"
-            android:maxLines="1"
-            android:gravity="center_horizontal"/>
+            android:maxLines="1" />
 
         <ImageButton
             android:id="@+id/sendButton"
             android:padding="10dp"
-            android:background="@drawable/circle_shape"
+            android:background="@drawable/circle_shape1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:src="@android:drawable/ic_menu_send"
